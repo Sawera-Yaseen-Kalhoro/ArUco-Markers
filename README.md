@@ -1,6 +1,7 @@
 # Hands-On Perception -- Lab 1: ArUco Markers
 
-Sawera Yaseen & Vania Katherine Mulia
+* Sawera Yaseen
+* Vania Katherine Mulia
 
 ## Overview of the Package
 
